@@ -1,0 +1,18 @@
+body {
+    background-color:black ;
+  }
+  span {
+    color: white ;
+    Font-Weight: Bold;
+    font-family: sans-serif;
+    font-size: 50px;
+    text-align: center;
+  }
+  .welcome{
+    text-align: center;
+}
+
+.test{
+    border: 3px solid green;
+    margin: auto;
+}
