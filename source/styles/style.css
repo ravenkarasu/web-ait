@@ -1,4 +1,5 @@
 body {
+    color: white;
     background-color:black ;
   }
   span {
@@ -15,4 +16,13 @@ body {
 .test{
     border: 3px solid green;
     margin: auto;
+}
+
+#cube{
+  position: relative;
+  margin-top: 200px;
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  margin: auto;
 }
